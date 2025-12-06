@@ -20,4 +20,4 @@ Python, SQL, Excel, Power BI And Git
 
 
 ### 🔗 Connect with me:
--->
+-->www.linkedin.com/in/shreyal-patil-1a26b5367
