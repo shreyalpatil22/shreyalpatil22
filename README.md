@@ -19,6 +19,7 @@ SQL - Joins, Case statement, Select query, Constrains
 Excel - Pivot Table, V-lookup, H-lookup, Macros
 
 PowerBI - DAX Function, Dashboard, Data Modeling
+
 Python - Pandas, Numpy, Seaborn
 
 
