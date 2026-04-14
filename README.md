@@ -10,13 +10,14 @@
 * 📫 How to reach me: [shreyalpatil@gmail.com]
 * ⚡Fun Fact: I believe there is no problem in life that a well-designed Pivot Table can't solve.
 
----
 
 ### 🛠️ My Tech Stack
-
 Here are a few technologies I've been learning with recently:
+
 SQL - Joins, Case statement, Select query, Constrains
+
 Excel - Pivot Table, V-lookup, H-lookup, Macros
+
 PowerBI - DAX Function, Dashboard, Data Modeling
 Python - Pandas, Numpy, Seaborn
 
