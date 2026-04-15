@@ -1,7 +1,7 @@
 
 # Hi there, I'm [Shreyal Patil] 👋
 
-### A passionate about Data Analytics
+### A passionate about Data Analytics :
 
 * 🔭 I’m currently working on github portfolio projects in SQL, Python, Excel and Power BI.
 * 🌱 I’m currently learning Python foundation, SQL, MS Excel, Power Query, and Power BI to transition into a Data Analytics role.
@@ -11,7 +11,8 @@
 * ⚡Fun Fact: I believe there is no problem in life that a well-designed Pivot Table can't solve.
 
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack:
+
 Here are a few technologies I've been learning with recently:
 
 SQL - Joins, Case statement, Select query, Constrains
