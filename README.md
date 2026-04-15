@@ -26,9 +26,11 @@ Python - Pandas, Numpy, Seaborn
 
 
 ### 🔗 Connect with me:
--->www.linkedin.com/in/shreyal-patil-1a26b5367
 
-**
-Certificates-**
+www.linkedin.com/in/shreyal-patil-1a26b5367
+
+
+### Certificate:
 Tech Master Certificate Programme in Data Analytics.
 
+https://courses-in.skillup.online/programcertificates/461e59304fac451280e8b88ae1024b0c
