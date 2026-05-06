@@ -28,7 +28,7 @@ Python - Pandas, Numpy, Seaborn
 
 ### 🔗 Connect with me:
 
-www.linkedin.com/in/shreyal-patil-1a26b5367
+www.linkedin.com/in/shreyalpatil
 
 
 ### Certificate:
